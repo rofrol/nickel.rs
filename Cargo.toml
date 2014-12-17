@@ -25,7 +25,7 @@ git = "https://github.com/servo/rust-url"
 
 [dependencies.rust-mustache]
 
-git = "https://github.com/nickel-org/rust-mustache.git"
+git = "https://github.com/timhabermaas/rust-mustache.git"
 
 [dependencies.groupable]
 
